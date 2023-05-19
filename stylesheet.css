@@ -1,14 +1,20 @@
 body {
-    background-color: rgb(249, 214, 170);
-    padding-top: 20px;
+    background-color: rgb(138, 61, 59);
 }
 
 p {
     text-align: justify;
 }
 
-div {
+.test {
     width: 80%;
     margin: auto;
-    background-color: rgb(253, 237, 217);
+    background-color: rgb(199, 183, 164);
+    padding: 50px;
+    margin-top: 30px;
+}
+
+nav {
+    width: 80%;
+    margin: auto;
 }
