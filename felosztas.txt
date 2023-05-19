@@ -1,0 +1,4 @@
+Máté: Castle Scratchers, Lowerstory, Manó, Space Invaders
+Kata: Pacman, Sanyi, igen (bálint és ricsi), Fnas
+
+Közösen: CSS és index.html
