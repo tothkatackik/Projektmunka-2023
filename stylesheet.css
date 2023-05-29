@@ -27,3 +27,16 @@ img {
 #co-op {
     text-decoration: none;
 }
+
+footer {
+    background-color: rgb(173, 155, 155);
+    padding: 30px;
+}
+
+footer>p {
+    text-align: center;
+    font-family: "Comic Sans MS", cursive;
+    font-style: italic;
+    font-size: large;
+    color: rgb(131, 10, 10);
+}
